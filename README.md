@@ -14,7 +14,7 @@ npx tailwindcss init
 
 npm install -g pnpm
 
-테일윈드 세팅까지 완료료`https://tailwindcss.com/docs/installation/using-vite`
+테일윈드 세팅까지 완료`https://tailwindcss.com/docs/installation/using-vite`
 
 
 Monorepo
@@ -28,14 +28,6 @@ node_modules가 깔끔하게 관리됨.
 일부 스크립트/라이브러리에서 pnpm 호환성 이슈
 CI/CD 환경에서 팀원들이 pnpm 설치해야 해서 세팅 조금 번거로움.
 생태계 문서/예제가 npm, yarn보다 적음.
-
-
-
-
-
-
-
-
 
 
 

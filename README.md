@@ -1,10 +1,28 @@
 ﻿# FE-portfolio
 
 ### 사용스택
+git + 소스트리
 
-소스트리
+### 초기세팅
+Vite + React + TypeScript + SWC + Tailwind + ESLint + Prettier
+
+npm i -D tailwindcss @tailwindcss/vite
+npx tailwindcss init
+
+npm install -g pnpm
+
+테일윈드 세팅까지 완료료`https://tailwindcss.com/docs/installation/using-vite`
 
 
+
+속도, 용량 최강 → 설치할 때 중복 패키지를 디스크에 한 번만 저장하고 링크만 걸어줌.
+대규모 프로젝트/모노레포에서 특히 효율적.
+설치 속도가 npm, yarn보다 훨씬 빠름.
+node_modules가 깔끔하게 관리됨.
+
+일부 스크립트/라이브러리에서 pnpm 호환성 이슈
+CI/CD 환경에서 팀원들이 pnpm 설치해야 해서 세팅 조금 번거로움.
+생태계 문서/예제가 npm, yarn보다 적음.
 
 
 

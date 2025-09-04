@@ -1,5 +1,8 @@
 ﻿# FE-portfolio
 
+### 배포 
+`https://wy-fe-portfolio.vercel.app/`
+
 ### 사용스택
 git + 소스트리
 
@@ -13,6 +16,8 @@ npm install -g pnpm
 
 테일윈드 세팅까지 완료료`https://tailwindcss.com/docs/installation/using-vite`
 
+
+Monorepo
 
 
 속도, 용량 최강 → 설치할 때 중복 패키지를 디스크에 한 번만 저장하고 링크만 걸어줌.
